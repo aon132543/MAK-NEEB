@@ -1,0 +1,16 @@
+import pygame
+
+WIDTH = 640
+HEIGHT = 640
+ROWS = 5
+COLS = 5
+SQUARE_SIZE = WIDTH//COLS
+FPS = 60
+
+CL1 = (220,220,220)
+CL2 = (255,255,255)
+
+RED = (255, 0, 0)
+BLACK = (0, 0, 0)
+BLUE = (0, 0, 255)
+
